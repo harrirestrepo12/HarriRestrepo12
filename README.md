@@ -4,13 +4,7 @@
 
 <br/>
 
-<!-- CONTADOR 1 (Komarev) -->
 <img src="https://komarev.com/ghpvc/?username=HarriRestrepo12&label=Profile%20Views&color=0ff&style=for-the-badge" />
-
-<br/>
-
-<!-- CONTADOR 2 (Alternativo) -->
-<img src="https://visitcount.itsvg.in/api?id=HarriRestrepo12&label=Profile%20Views&color=12&icon=5&pretty=true" />
 
 <br/><br/>
 
@@ -73,7 +67,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU-LINK">
+<a href="https://www.linkedin.com/in/TU-LINK" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
@@ -81,14 +75,10 @@
 <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
-<a href="https://wa.me/573017335471">
+<a href="https://wa.me/573017335471" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-00f7ff?style=for-the-badge&logo=whatsapp&logoColor=black" />
 </a>
 
-</div>
-
-<div align="center">
-📧 harryzason12@gmail.com  •  📱 +57 301 733 5471
 </div>
 
 ---
