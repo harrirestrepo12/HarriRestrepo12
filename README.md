@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=760&lines=Hola%2C+soy+Harri+Restrepo;Desarrollador+Junior+en+formación;Construyendo+proyectos+reales+con+código;Aprender+%7C+Practicar+%7C+Mejorar+cada+día" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Harri+Restrepo;Desarrollador+Junior+en+Evolución;Construyendo+el+futuro+con+código;Aprendiendo+%7C+Creando+%7C+Mejorando" />
 
 <br/>
 
@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00f7ff?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Level-Junior-00f7ff?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Status-Learning%20Mode-00f7ff?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Focus-Fullstack-00f7ff?style=for-the-badge&logo=react" />
 
 </div>
 
@@ -17,38 +17,34 @@
 
 ## 🧠 Sobre mí
 
-Soy **desarrollador junior autodidacta**, enfocado en aprender haciendo.  
-Me interesa construir **proyectos funcionales**, entender la lógica detrás del código  
-y mejorar mis habilidades todos los días.
-
-No tengo título universitario, pero sí disciplina, constancia  
-y una fuerte motivación por crecer profesionalmente en tecnología.
+💻 Desarrollador **Junior autodidacta**  
+🚀 Enfocado en **crecer, aprender y crear proyectos reales**  
+🧩 Apasionado por el desarrollo web y la lógica  
+🌱 Cada día escribo mejor código que ayer
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,node,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados (en progreso)
+## 🚀 Proyectos en evolución
 
-| Proyecto | Qué resuelve | Tecnologías |
-|--------|--------------|-------------|
-| 🔹 App Web | Interfaz funcional y manejo de estados | JavaScript / React |
-| 🔹 API Backend | CRUD y estructura de servidor | Node.js |
-| 🔹 Proyecto Fullstack | Integración frontend + backend | Fullstack |
-
-> Cada proyecto incluye README, instrucciones y mejoras continuas.
+| Proyecto | Descripción | Tech |
+|--------|-------------|------|
+| 🔹 Proyecto 1 | App web funcional | JS / React / Py|
+| 🔹 Proyecto 2 | ------ | ------ |
+| 🔹 Proyecto 3 | ------ | ------ |
 
 ---
 
-## 📊 Actividad y aprendizaje
+## 📊 Actividad en tiempo real
 
 <div align="center">
 
@@ -60,14 +56,14 @@ y una fuerte motivación por crecer profesionalmente en tecnología.
 
 ---
 
-## 🔥 Mentalidad
+## 🔥 Filosofía
 
-> *“Ser junior no es una debilidad, es una etapa de crecimiento.”*  
-> *“La constancia vence al talento cuando el talento no practica.”*
+> *"No soy senior todavía, pero mi progreso es constante."*  
+> *"Aprender todos los días es mi ventaja competitiva."*
 
 ---
 
-## 📡 Contacto
+## 📡 Conecta conmigo
 
 <div align="center">
 
@@ -75,7 +71,7 @@ y una fuerte motivación por crecer profesionalmente en tecnología.
 <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="mailto:TUEMAIL@gmail.com">
+<a href="mailto:tuemail@gmail.com">
 <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
@@ -85,7 +81,7 @@ y una fuerte motivación por crecer profesionalmente en tecnología.
 
 <div align="center">
 
-⚡ Perfil en evolución constante  
-🧠 Aprender haciendo es mi ventaja  
+⚡ *Perfil en construcción constante* ⚡  
+🧠 *Aprendizaje > Experiencia*  
 
 </div>
