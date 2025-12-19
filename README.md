@@ -4,7 +4,13 @@
 
 <br/>
 
+<!-- CONTADOR 1 (Komarev) -->
 <img src="https://komarev.com/ghpvc/?username=HarriRestrepo12&label=Profile%20Views&color=0ff&style=for-the-badge" />
+
+<br/>
+
+<!-- CONTADOR 2 (Alternativo) -->
+<img src="https://visitcount.itsvg.in/api?id=HarriRestrepo12&label=Profile%20Views&color=12&icon=5&pretty=true" />
 
 <br/><br/>
 
@@ -38,9 +44,9 @@
 
 | Proyecto | Descripción | Tech |
 |--------|-------------|------|
-| 🔹 Proyecto 1 | App web funcional | JS / React / Py|
-| 🔹 Proyecto 2 | ------ | ------ |
-| 🔹 Proyecto 3 | ------ | ------ |
+| 🔹 Proyecto 1 | App web funcional | JS / React |
+| 🔹 Proyecto 2 | Backend con API | Node |
+| 🔹 Proyecto 3 | Proyecto en crecimiento | Fullstack |
 
 ---
 
@@ -71,10 +77,18 @@
 <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="mailto:tuemail@gmail.com">
+<a href="mailto:harryzason12@gmail.com">
 <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
+<a href="https://wa.me/573017335471">
+<img src="https://img.shields.io/badge/WhatsApp-00f7ff?style=for-the-badge&logo=whatsapp&logoColor=black" />
+</a>
+
+</div>
+
+<div align="center">
+📧 harryzason12@gmail.com  •  📱 +57 301 733 5471
 </div>
 
 ---
