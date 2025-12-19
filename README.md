@@ -1,78 +1,91 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Harri+Restrepo;Desarrollador+Junior+en+Evolución;Construyendo+el+futuro+con+código;Aprendiendo+%7C+Creando+%7C+Mejorando" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=HarriRestrepo12&label=Profile%20Views&color=0ff&style=for-the-badge" />
+<!-- TÍTULO ANIMADO -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1200&color=FF0000&center=true&vCenter=true&width=800&lines=HI%2C+I'M+HARRI+RESTREPO;JUNIOR+DEVELOPER+IN+GAME+MODE;LEVELING+UP+WITH+CODE;INSERT+COIN+TO+CONTINUE" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Learning%20Mode-00f7ff?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Focus-Fullstack-00f7ff?style=for-the-badge&logo=react" />
+<!-- CONTADOR DE VISITAS -->
+<img src="https://komarev.com/ghpvc/?username=HarriRestrepo12&label=VISITORS&color=ff0000&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## 🕹️ PLAYER PROFILE
 
-💻 Desarrollador **Junior autodidacta**  
-🚀 Enfocado en **crecer, aprender y crear proyectos reales**  
-🧩 Apasionado por el desarrollo web y la lógica  
-🌱 Cada día escribo mejor código que ayer
+```
+👤 Player: Harri Restrepo
+🎮 Class: Developer (Junior)
+📍 Location: Colombia
+⚡ Mode: Learning & Building
+❤️ Lives: ∞
+```
 
 ---
 
-## ⚙️ Tech Stack
+## ⭐ SKILLS UNLOCKED
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,node,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,node,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Proyectos en evolución
-
-| Proyecto | Descripción | Tech |
-|--------|-------------|------|
-| 🔹 Proyecto 1 | App web funcional | JS / React |
-| 🔹 Proyecto 2 | Backend con API | Node |
-| 🔹 Proyecto 3 | Proyecto en crecimiento | Fullstack |
-
----
-
-## 📊 Actividad en tiempo real
+## 📈 PLAYER PROGRESS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarriRestrepo12&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarriRestrepo12&show_icons=true&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarriRestrepo12&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarriRestrepo12&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Filosofía
+## 🧱 GAME LEVELS (PROJECTS)
 
-> *"No soy senior todavía, pero mi progreso es constante."*  
-> *"Aprender todos los días es mi ventaja competitiva."*
+| LEVEL | MISSION | STATUS |
+|-----|--------|--------|
+| 🟢 Level 1 | First Web App | ✔ Completed |
+| 🟡 Level 2 | CRUD + Auth | 🛠 In Progress |
+| 🔴 Level 3 | Fullstack App | 🔒 Locked |
 
 ---
 
-## 📡 Conecta conmigo
+## 🏆 ACHIEVEMENTS
+
+- 🏁 First GitHub Project
+- 🔁 Daily Coding Practice
+- 🧠 Problem Solver Mindset
+- 🚀 Growing Every Day
+
+---
+
+## 👾 CURRENT QUEST
+
+```
+🎯 Objective:
+→ Become a professional developer
+→ Build real-world projects
+→ Land my first tech job
+```
+
+---
+
+## 📡 CONNECT PLAYER
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/TU-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
+<img src="https://img.shields.io/badge/LINKEDIN-PLAYER-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:tuemail@gmail.com">
-<img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
@@ -81,11 +94,8 @@
 
 <div align="center">
 
-⚡ *Perfil en construcción constante* ⚡  
-🧠 *Aprendizaje > Experiencia*  
+🎵 *Game not finished…*  
+🧠 *XP increases every day*  
+⭐ *Next level loading...*
 
 </div>
-
----
-
-¡Gracias por visitar mi perfil! 🌟  
