@@ -1,126 +1,64 @@
+<!--
+================================================================================
+  HARRI RESTREPO // CYBER ARCADE RPG PROFILE
+  Paste into: https://github.com/HarriRestrepo12/HarriRestrepo12/blob/main/README.md
+================================================================================
+-->
+
 <div align="center">
 
-<!-- TÍTULO MIX RETRO + CYBER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1100&color=00F7FF&center=true&vCenter=true&width=980&lines=NEON+MARIO+DEV;SUPER+HARRI+CYBER+BROS;WORLD+1-1%3A+LEVEL+UP+THE+FUTURE;PRESS+START+%7C+INSERT+COIN" />
+<!-- GLITCH HERO TITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=%5BNEON+ARCADE+OS%5D%3A+BOOTING...;%E2%96%B6+USER%3A+HARRI+RESTREPO;%E2%96%B6+CLASS%3A+JUNIOR+DEV+%7C+RPG+MODE;%E2%96%B6+QUEST%3A+FIRST+JOB+%7C+LEVEL+UP+DAILY" />
 
 <br/>
 
-<!-- VISITAS -->
 <img src="https://komarev.com/ghpvc/?username=HarriRestrepo12&label=VISITORS&color=00f7ff&style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
-<!-- STATUS -->
-<img src="https://img.shields.io/badge/MODE-GAME%20ON-00f7ff?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/STYLE-RETRO%20CYBER-00f7ff?style=for-the-badge&logo=neovim" />
-
-</div>
-
----
-
-## 🧍 PLAYER // CYBER CARD
-
-```
-👤 Player: Harri Restrepo
-🕶️ Class: Junior Developer
-🌆 World: Web / Software
-⭐ XP: Increasing Daily
-❤️ Lives: ∞
-🎯 Quest: First Tech Job
-```
-
----
-
-## 🧱 WORLD MAP // ACTIONS
-
-<div align="center">
-
-<a href="https://github.com/HarriRestrepo12?tab=repositories">
-<img src="https://img.shields.io/badge/▶️%20PLAY%20-%20REPOSITORIES-00f7ff?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/HarriRestrepo12?tab=projects">
-<img src="https://img.shields.io/badge/🗺️%20MAP%20-%20PROJECTS-00f7ff?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/HarriRestrepo12?tab=stars">
-<img src="https://img.shields.io/badge/⭐%20POWER%20-%20STARS-00f7ff?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/NEON-ONLINE-00f7ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ARCADE-READY-00f7ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XP-INCREASING-00f7ff?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🍄 POWER-UPS // TECH
+## 🧩 SYSTEM CARD
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node,git,github,vscode" />
-</div>
+```txt
+NAME............. Harri Restrepo
+HANDLE........... HarriRestrepo12
+ROLE............. Junior Developer (Self-taught)
+MODE............. Cyber-Arcade RPG
+LOCATION......... Colombia
+GOAL............. First Tech Job
+LIVES............ ∞
+POWER SOURCE..... Curiosity + Consistency
+🎛️ QUICK ACTIONS
+<div align="center"> <a href="https://github.com/HarriRestrepo12?tab=repositories"> <img src="https://img.shields.io/badge/▶%20ENTER%20ARCADE%20(REPOS)-00f7ff?style=for-the-badge" /> </a> <a href="https://github.com/HarriRestrepo12?tab=projects"> <img src="https://img.shields.io/badge/🗺%20OPEN%20MAP%20(PROJECTS)-00f7ff?style=for-the-badge" /> </a> <a href="https://github.com/HarriRestrepo12?tab=stars"> <img src="https://img.shields.io/badge/⭐%20POWER%20UPS%20(STARS)-00f7ff?style=for-the-badge" /> </a> </div>
+🧪 TECH LOADOUT
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,node,git,github,vscode" /> </div> <br/> <div align="center"> <img src="https://img.shields.io/badge/Code%20Style-Clean%20%26%20Readable-00f7ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/Commit%20Rule-Small%20%26%20Frequent-00f7ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/Mindset-Ship%20%3E%20Perfect-00f7ff?style=for-the-badge" /> </div>
+📡 LIVE TELEMETRY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarriRestrepo12&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarriRestrepo12&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🕹️ ARCADE TERMINAL
+bash
+Copiar código
+$ whoami
+harri-restrepo
 
----
+$ status
+LEARNING: true
+BUILDING: true
+APPLYING: soon
+GIVING_UP: false
 
-## 📊 SCOREBOARD // LIVE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarriRestrepo12&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarriRestrepo12&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🎮 LEVELS // MISSIONS
-
-| WORLD | MISSION | STATUS |
-|------|---------|--------|
-| 🌍 1-1 | First Web App | ✅ Completed |
-| 🌍 1-2 | CRUD + Auth | 🛠 In Progress |
-| 🌍 1-3 | Fullstack App | 🔒 Locked |
-
----
-
-## 🏆 ACHIEVEMENTS
-
-- 🧠 Problem Solver Mindset
-- 🔁 Daily Coding Practice
-- 🚀 Clean Repos & READMEs
-- ⭐ XP grows every commit
-
----
-
-## 🧠 CURRENT QUEST
-
-```
-→ Build real projects
-→ Improve code quality
-→ Learn every day
-→ Land my first developer role
-```
-
----
-
-## 📡 WARP PIPES // CONTACT
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/TU-LINK">
-<img src="https://img.shields.io/badge/🟦%20PIPE%20-%20LINKEDIN-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-
-<a href="mailto:TUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/📩%20MAIL%20BOX-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⚡ *NEON MODE ON* ⚡  
-🍄 *Retro roots. Cyber future.*  
-⭐ *Next level loading…*
-
-</div>
+$ next
+- Ship 2-3 polished projects
+- Improve READMEs + screenshots
+- Practice interviews (daily)
+🧱 MAIN QUESTS (EDIT THESE WITH YOUR REAL REPOS)
+WORLD	MISSION	WHAT IT SHOWS	STATUS
+1-1	Portfolio Project	UI + basics + deploy	✅
+1-2	CRUD + Auth	backend + DB + validation	🛠
+1-3	Fullstack App	API + UI + real flow	🔒
