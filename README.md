@@ -4,7 +4,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HarriRestrepo12&label=Profile%20Views&color=0ff&style=for-the-badge" />
+<!-- CONTADOR DE VISITAS (FUNCIONAL) -->
+<img src="https://komarev.com/ghpvc/?username=HarriRestrepo12&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
 
 <br/><br/>
 
@@ -39,7 +40,7 @@
 | Proyecto | Descripción | Tech |
 |--------|-------------|------|
 | 🔹 Proyecto 1 | App web funcional | JS / React |
-| 🔹 Proyecto 2 | Backend con API | Node |
+| 🔹 Proyecto 2 | API | Node |
 | 🔹 Proyecto 3 | Proyecto en crecimiento | Fullstack |
 
 ---
@@ -71,7 +72,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="https://mail.google.com/harryzason12@gmail.com">
+<!-- EMAIL CORRECTO -->
+<a href="mailto:harryzason12@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Harri%2C%20vi%20tu%20perfil%20en%20GitHub%20y%20quiero%20contactarte.">
 <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
