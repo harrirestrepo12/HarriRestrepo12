@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Harri+Restrepo;Desarrollador+Junior+en+Evolución;Construyendo+el+futuro+con+código;Aprendiendo+%7C+Creando+%7C+Mejorando" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Harri+Restrepo;Desarrollador++en+Evolución;Construyendo+el+futuro+con+código;Aprendiendo+%7C+Creando+%7C+Mejorando" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## 🧠 Sobre mí
 
-💻 Desarrollador **Junior autodidacta**  
+💻 Desarrollador ** autodidacta**  
 🚀 Enfocado en **crecer, aprender y crear proyectos reales**  
 🧩 Apasionado por el desarrollo web y la lógica  
 🌱 Cada día escribo mejor código que ayer
