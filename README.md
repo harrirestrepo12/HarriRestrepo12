@@ -181,3 +181,4 @@ workflows.
 [VISIT NEURO TRADING](https://www.neurotrading.app/)
 
 </div>
+![Contador oculto](https://komarev.com/ghpvc/?username=HarriRestrepo12&style=pixel)
